@@ -1,0 +1,42 @@
+C:\Users\me\source\repos\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.Form1.resources
+C:\Users\me\source\repos\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.JoinForm.resources
+C:\Users\me\source\repos\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.Properties.Resources.resources
+C:\Users\me\source\repos\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.csproj.GenerateResource.cache
+C:\Users\me\source\repos\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\source\repos\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.AssemblyInfoInputs.cache
+C:\Users\me\source\repos\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.AssemblyInfo.cs
+C:\Users\me\source\repos\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\ConnectFour\ConnectFour\bin\Debug\net8.0-windows\ConnectFour.exe
+C:\Users\me\source\repos\ConnectFour\ConnectFour\bin\Debug\net8.0-windows\Images\RedCircle.png
+C:\Users\me\source\repos\ConnectFour\ConnectFour\bin\Debug\net8.0-windows\Images\YellowCircle.png
+C:\Users\me\source\repos\ConnectFour\ConnectFour\bin\Debug\net8.0-windows\ConnectFour.deps.json
+C:\Users\me\source\repos\ConnectFour\ConnectFour\bin\Debug\net8.0-windows\ConnectFour.runtimeconfig.json
+C:\Users\me\source\repos\ConnectFour\ConnectFour\bin\Debug\net8.0-windows\ConnectFour.dll
+C:\Users\me\source\repos\ConnectFour\ConnectFour\bin\Debug\net8.0-windows\ConnectFour.pdb
+C:\Users\me\source\repos\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.dll
+C:\Users\me\source\repos\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\refint\ConnectFour.dll
+C:\Users\me\source\repos\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.pdb
+C:\Users\me\source\repos\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.genruntimeconfig.cache
+C:\Users\me\source\repos\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ref\ConnectFour.dll
+C:\Users\me\source\repos\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\Client.resources
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\bin\Debug\net8.0-windows\ConnectFour.exe
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\bin\Debug\net8.0-windows\Images\RedCircle.png
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\bin\Debug\net8.0-windows\Images\YellowCircle.png
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\bin\Debug\net8.0-windows\ConnectFour.deps.json
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\bin\Debug\net8.0-windows\ConnectFour.runtimeconfig.json
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\bin\Debug\net8.0-windows\ConnectFour.dll
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\bin\Debug\net8.0-windows\ConnectFour.pdb
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\Client.resources
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.Form1.resources
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.JoinForm.resources
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.dll
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\refint\ConnectFour.dll
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.pdb
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ConnectFour.genruntimeconfig.cache
+\\vmware-host\Shared Folders\Documents\SAU\a) COMPUTING\a)Principles of Networking\CONNECT4 PROJECT\ConnectFour\ConnectFour\obj\Debug\net8.0-windows\ref\ConnectFour.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectFour", "ConnectFour\ConnectFour.csproj", "{5377F5E4-8AF0-4247-80B5-CAAA8455899C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectFourServer", "ConnectFourServer\ConnectFourServer.csproj", "{63F3AD9A-0725-4CCD-9C6B-9429FF6D56C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5377F5E4-8AF0-4247-80B5-CAAA8455899C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5377F5E4-8AF0-4247-80B5-CAAA8455899C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5377F5E4-8AF0-4247-80B5-CAAA8455899C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5377F5E4-8AF0-4247-80B5-CAAA8455899C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F3AD9A-0725-4CCD-9C6B-9429FF6D56C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F3AD9A-0725-4CCD-9C6B-9429FF6D56C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F3AD9A-0725-4CCD-9C6B-9429FF6D56C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F3AD9A-0725-4CCD-9C6B-9429FF6D56C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E2C9F48-D271-4496-9D50-5FF8BFE2E0B2}
+	EndGlobalSection
+EndGlobal
